@@ -1,0 +1,5 @@
+conejos
+hamsters
+patos
+gatos
+perros
